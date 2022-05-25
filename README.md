@@ -1,6 +1,3 @@
-*******************
-Demo Aplikasi : https://virgorasion.000webhostapp.com/zakat_migrasi/
-*******************
 
 *******************
 Apa Itu Zakat-Migrasi
@@ -39,6 +36,3 @@ Cara Install
  - Terakhir silahkan di browser dengan alamat url http://localhost/Zakat-Migrasi. silahkan login menggunakan username : test, password: test
 
 *******************
-Konsultasi
-*******************
-WA : 0838 4957  5737
